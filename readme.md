@@ -35,7 +35,7 @@ In this work, we theoretically prove the pessimistic result that all reweighting
 
 This repository contains codes for experiments to empirically validate our theoretical results. Particularly, we conduct the experiments on two datasets: Waterbirds and CelebA.
 
-The first part of our experiments (synthetic dataset) can be found at https://colab.research.google.com/drive/1Yt2MsAvOhZ0Rf0pFK1AqSaO7WaVpFX5p?usp=sharing.
+The first part of our experiments (MNIST images) can be found at https://colab.research.google.com/drive/1Yt2MsAvOhZ0Rf0pFK1AqSaO7WaVpFX5p?usp=sharing.
 
 
 ## Training
